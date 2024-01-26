@@ -2,7 +2,7 @@ import 'dart:async';
 import 'package:flutter/src/foundation/key.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter/material.dart';
-import 'package:brentwood/Screens/login_screen.dart';
+import '../auth/login.dart';
 
 
 class MainScreen extends StatefulWidget {

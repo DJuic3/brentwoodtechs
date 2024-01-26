@@ -1,7 +1,7 @@
 import 'package:flutter/src/foundation/key.dart';
 import 'package:flutter/src/widgets/framework.dart';
 import 'package:flutter/material.dart';
-import 'package:brentwood/Screens/employee_details.dart';
+import '../employees/employee_details.dart';
 
 
 class SuccessScreen extends StatelessWidget {

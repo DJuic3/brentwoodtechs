@@ -1,9 +1,9 @@
 import 'dart:convert';
-import 'package:brentwood/Screens/register.dart';
+import 'package:brentwoodtechs/auth/register.dart';
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:http/http.dart' as http;
-import 'employee_details.dart';
+import '../employees/employee_details.dart';
 
 
 

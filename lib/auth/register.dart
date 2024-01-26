@@ -1,11 +1,11 @@
 import 'dart:convert';
 import 'dart:ui';
-import 'package:brentwood/Screens/employee_details.dart';
-import 'package:brentwood/Screens/regfield.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:shared_preferences/shared_preferences.dart';
+import '../employees/employee_details.dart';
+import 'components/regfield.dart';
 
 
 class Signup extends StatefulWidget {

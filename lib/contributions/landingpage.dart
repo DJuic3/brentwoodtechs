@@ -1,5 +1,5 @@
 import 'dart:convert';
-import 'package:brentwood/Screens/finance/view.dart';
+import 'package:brentwoodtechs/contributions/view.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 
